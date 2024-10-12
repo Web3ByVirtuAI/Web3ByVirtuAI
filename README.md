@@ -1,20 +1,26 @@
 ## Hi there 👋
 
-I'm a **Blockchain | Fullstack Web3 Developer** at **AgileGypsy**, specializing in Web3 development and blockchain solutions.
+I'm a **Fullstack Blockchain & Web3 Developer** at **AgileGypsy**, specializing in Web3 development and blockchain solutions.
 
 ### 🛠️ Technologies & Languages
-- **Languages**: Solidity, Vyper, JavaScript, TypeScript, Go, Rust
-- **Frameworks**: React, Node.js, Express.js, Truffle, Hardhat
-- **Blockchain Platforms**: Ethereum, Binance Smart Chain, Polygon, Solana, Hyperledger
-- **Tools**: Git, GitHub, Docker, Web3.js, Ethers.js, IPFS, Moralis
-- **Technologies**: 
-  - Smart Contracts (upgradable, ERC20s)
-  - Full-stack Web3 dApps
-  - Decentralized Finance (DeFi)
-  - DAOs (Decentralized Autonomous Organizations)
-  - Chainlink
-  - Aave
-  - The Graph
+- **Languages**: 
+  - **JavaScript**: 
+    - Frameworks: React, Vue.js, Angular (front-end development), Node.js (back-end development).
+  - **Solidity**: The primary language for writing smart contracts on the Ethereum blockchain.
+  - **Rust**: Used for developing smart contracts on blockchains like Solana and Polkadot.
+  - **Go**: Popular for building blockchain applications, especially on Hyperledger and infrastructure projects.
+  - **Python**: Useful for writing scripts, building prototypes, and interacting with blockchain APIs (e.g., web3.py).
+  - **TypeScript**: A superset of JavaScript that helps with type safety in modern applications.
+  - **HTML/CSS**: Fundamental for front-end development to build user interfaces.
+  - **SQL/NoSQL Databases**: Knowledge of databases like PostgreSQL, MongoDB, and others for data storage.
+  - **GraphQL**: For API management and interacting with decentralized applications (dApps).
+
+- **Additional Tools & Technologies**: 
+  - **Web3.js** or **Ethers.js**: JavaScript libraries for interacting with the Ethereum blockchain.
+  - **Truffle** or **Hardhat**: Development frameworks for building and deploying smart contracts.
+  - **IPFS**: For decentralized file storage.
+  - **Docker**: For containerizing applications.
+  - **Git**: Version control for collaborative development.
 
 ### 🌱 I'm currently learning
 - New advancements in decentralized finance (DeFi) and non-fungible tokens (NFTs).
@@ -29,7 +35,10 @@ I'm a **Blockchain | Fullstack Web3 Developer** at **AgileGypsy**, specializing 
 - Web3, blockchain development, smart contracts, or agile methodologies!
 
 ### 📫 How to reach me
-- [john@agilegypsy.com](mailto:wjohn@agilegypsy.com)
+- [john@agilegypsy.com](mailto:john@agilegypsy.com)
+
+### 😄 Pronouns
+- He/Him
 
 ### ⚡ Fun fact
 - I enjoy exploring the intersection of technology and sustainability!
