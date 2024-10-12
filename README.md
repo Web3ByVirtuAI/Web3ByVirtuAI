@@ -37,8 +37,5 @@ I'm a **Fullstack Blockchain & Web3 Developer** at **AgileGypsy**, specializing 
 ### 📫 How to reach me
 - [john@agilegypsy.com](mailto:john@agilegypsy.com)
 
-### 😄 Pronouns
-- He/Him
-
 ### ⚡ Fun fact
 - I enjoy exploring the intersection of technology and sustainability!
