@@ -25,6 +25,15 @@ I'm a **Fullstack Blockchain & Web3 Developer** at **AgileGypsy**, specializing 
 ### 🌱 I'm currently learning
 - New advancements in decentralized finance (DeFi) and non-fungible tokens (NFTs).
 
+### 📚 Completed Projects
+- Educational Blockchain Visualizer Tool: An interactive tool to understand blockchain fundamentals. Users can add blocks, modify data, and see how the blockchain works. Check it out pinned below.
+
+### ⏳ Pending Projects
+- **Educational Blockchain Tools Suite:** I'm developing a suite of blockchain and Web3 educational tools to help users understand key blockchain concepts such as block creation, validation, and the interaction between decentralized technologies.
+- **Smart Contract Arbitrage Bot:** Developing a bot to capitalize on price differences in decentralized exchanges through smart contract automation.
+- **Trading Bots:** Working on automated bots for trading across multiple platforms using advanced algorithms and market analysis.
+- **SEO and Social Media Posting Bots:** Developing bots to automate SEO optimization and social media posting for enhanced online presence.
+
 ### 👯 I'm looking to collaborate on
 - Projects that leverage decentralized technologies and contribute to open-source initiatives.
 
