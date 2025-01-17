@@ -5,7 +5,7 @@ I'm a **Blockchain & Web3 Developer** at **AgileGypsy**, specializing in Web3 de
 ### 🛠️ Technologies & Languages
 - **Languages**: 
   - **JavaScript**: 
-    - Frameworks: React, Vue.js, Angular (front-end development), Node.js (back-end development).
+  - **Frameworks**: React, Vue.js, Angular (front-end development), Node.js (back-end development).
   - **Solidity**: The primary language for writing smart contracts on the Ethereum blockchain.
   - **Rust**: Used for developing smart contracts on blockchains like Solana and Polkadot.
   - **Go**: Popular for building blockchain applications, especially on Hyperledger and infrastructure projects.
