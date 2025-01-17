@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Fullstack Blockchain & Web3 Developer** at **AgileGypsy**, specializing in Web3 development and blockchain solutions.
+I'm a **Blockchain & Web3 Developer** at **AgileGypsy**, specializing in Web3 development and blockchain solutions.
 
 ### 🛠️ Technologies & Languages
 - **Languages**: 
