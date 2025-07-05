@@ -58,5 +58,5 @@ DeFi protocols • zk-SNARKs • AI agents • Security audits • Web3 infra
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agilegypsy&show_icons=true&theme=radical" alt="AgileGypsy's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Web3ByVirtuAI&show_icons=true&theme=radical" alt="Web3ByVirtuAI's GitHub stats"/>
 </div>
