@@ -62,7 +62,8 @@ DeFi protocols • zk-SNARKs • AI agents • Security audits • Web3 infra
 ---
 
 ### 📝 Featured repos
-- ⚡ `jw3b.dev` — Security audit reports & exploit proofs (CodeHawks / C4 style). *(upcoming)*
+
+- ⚡ `solidity-audits` — Security audit reports & exploit proofs (CodeHawks / C4 style). *(upcoming)*
 - 🐙 `agilegypsy-hero` — Animated Next.js hero section with orbiting tabs (Tailwind + GSAP + Framer Motion). *(upcoming)*
 - 🤖 `chainbots-prototype` — Token-gated AI assistant prototype with on-chain logic. *(upcoming)*
 
