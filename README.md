@@ -1,3 +1,4 @@
+"""
 <h1 align="center">Hi 👋, I'm John Wellard</h1>
 <h3 align="center">AI-Powered Full-Stack Web3 Developer & Smart Contract Auditor</h3>
 
@@ -13,7 +14,7 @@
   - Autonomous AI ChainBots & peer-to-peer marketplaces  
   - Smart contract security automation
 
-- 🔍 Active in competitive audits on **CodeHawks** & **Code4rena**, building a portfolio of real-world security findings.
+- 🔍 Active in competitive audits on **CodeHawks** & **Immunifi**, building a portfolio of real-world security findings.
 
 - 🌐 Under construction:  
   - [jw3b.dev](https://jw3b.dev) — portfolio & audit showcase  
@@ -33,13 +34,31 @@ DeFi protocols • zk-SNARKs • AI agents • Security audits • Web3 infra
     Validates advanced Solidity smart contract development, security, and protocol-level skills.  
     Includes gas optimization, signatures, opcodes, upgradable contracts, account abstraction, DeFi mechanics, stablecoins, fuzz testing.
   - The Blockchain Bootcamp 3.0 Course (Dapp University)
-  - Foundry Fundamentals (Cyfrin Updraft) (80% complete)
-  - Advanced Foundry (Cyfrin Updraft) (upcoming)
+  - Full-Stack Web3 Development Crash Course (Cyfrin Updraft) (17% Complete)
+  - Advanced Foundry (Cyfrin Updraft) (19% Complete)
+  - Advanced Web3 Wallet Security (Cyfrin Updraft) (58% Complete)
+  - Certification: Chainlink Fundamentals (Cyfrin Updraft) (upcoming)
 
 - ✅ **Completed**
+  - Foundry Fundamentals (Cyfrin Updraft)
   - Blockchain Basics (Cyfrin Updraft)
+  - Web3 Wallet Security Basics (Cyfrin Updraft)
   - Solidity Smart Contract Development (Cyfrin Updraft)
   - The Blockchain Bootcamp 2.0 Course (Dapp University)
+
+---
+
+### 🦅 CodeHawks First Flights Profile (Started June 2025)
+
+- 👨‍💻 **Rank:** #1176 (as of July 28th, 2025)  
+- 🧠 **Experience:** 124 EXP  
+- 🔍 **Findings:**  
+  - 🟥 High: `1`  
+  - 🟧 Medium: `1`  
+  - 🟩 Low: `1`  
+
+- 🔗 [View Profile on CodeHawks](https://profiles.cyfrin.io/u/agilegypsy)  
+- 🐦 [@CodeHawks](https://twitter.com/CodeHawks) | [LinkedIn](https://www.linkedin.com/company/cyfrin-codehawks/)
 
 ---
 
@@ -60,3 +79,4 @@ DeFi protocols • zk-SNARKs • AI agents • Security audits • Web3 infra
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Web3ByVirtuAI&show_icons=true&theme=radical" alt="Web3ByVirtuAI's GitHub stats"/>
 </div>
+"""
