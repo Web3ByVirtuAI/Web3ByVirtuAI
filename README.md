@@ -1,4 +1,3 @@
-"""
 <h1 align="center">Hi 👋, I'm John Wellard</h1>
 <h3 align="center">AI-Powered Full-Stack Web3 Developer & Smart Contract Auditor</h3>
 
