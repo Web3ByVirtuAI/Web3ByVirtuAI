@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Tech & Domains
-**Smart Contracts & Security:** Solidity • Foundry • Hardhat  
+**Smart Contracts & Security:** Solidity • Foundry • Hardhat • Ethers.js 
 **Frontend / Full Stack:** Next.js • TypeScript • Tailwind CSS • Framer Motion • React  
 **Backend & Tools:** Node.js • Python • Docker • CI/CD • IPFS  
 **Domains:** DeFi • Account Abstraction • zk‑SNARKs • AI agents • Protocol Security
