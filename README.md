@@ -22,10 +22,21 @@
 ---
 
 ## 🛠️ Tech & Domains
-**Smart Contracts & Security:** Solidity • Foundry • Hardhat • Ethers.js 
-**Frontend / Full Stack:** Next.js • TypeScript • Tailwind CSS • Framer Motion • React  
-**Backend & Tools:** Node.js • Python • Docker • CI/CD • IPFS  
-**Domains:** DeFi • Account Abstraction • zk‑SNARKs • AI agents • Protocol Security
+
+### Smart Contracts & Security
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-%23000000?style=for-the-badge&logo=foundry&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-F3C702?style=for-the-badge&logo=ethereum&logoColor=black) ![Ethers.js](https://img.shields.io/badge/Ethers.js-5C6BC0?style=for-the-badge&logo=ethereum&logoColor=white)
+
+### Frontend / Full Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF5C90?style=for-the-badge&logo=framer&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+### AI x Blockchain | Protocol Domains
+![DeFi](https://img.shields.io/badge/DeFi-000000?style=for-the-badge&logo=uniswap&logoColor=pink) ![AI Agents](https://img.shields.io/badge/AI_Agents-ff5c5c?style=for-the-badge&logo=OpenAI&logoColor=white) ![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-4B0082?style=for-the-badge) ![Account Abstraction](https://img.shields.io/badge/Account_Abstraction-000?style=for-the-badge) ![Protocol Security](https://img.shields.io/badge/Protocol_Security-red?style=for-the-badge)
+
+### Graph Data & Analysis
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ---
 
@@ -43,15 +54,20 @@
   - Web3 Wallet Security Basics (Cyfrin)  
   - Foundry Fundamentals (Cyfrin)  
   - Blockchain Basics (Cyfrin)  
-  - Blockchain Bootcamp 2.0 (Dapp University)  
+  - Blockchain Bootcamp 2.0 (Dapp University)
+  - 🧠 [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/e235aec4-a1e6-4bab-ad1b-2777f199d60c/)
+   
 
 ---
 
-## 🦅 CodeHawks Auditor Profile  
-[![CodeHawks Rank Badge](https://img.shields.io/badge/CodeHawks-Rank%20%231176-blue)](https://codehawks.cyfrin.io)  
-- **Rank:** #1176 (Jul 28, 2025) • **EXP:** 124  
-- **Findings:** 1 High • 1 Medium • 1 Low  
-- 🔗 [View full profile](https://codehawks.cyfrin.io)
+[![CodeHawks Rank Badge](https://img.shields.io/badge/CodeHawks-Rank%20%231176-blue)](https://codehawks.cyfrin.io)
+
+| Metric       | Value              |
+|--------------|--------------------|
+| 🔢 Rank       | #1176 (as of Jul 28, 2025) |
+| 🧠 EXP        | 124                |
+| 🔍 Findings   | 1 High • 1 Medium • 1 Low |
+| 🔗 Profile    | [View CodeHawks Profile](https://codehawks.cyfrin.io) |
 
 ---
 
