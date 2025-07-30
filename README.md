@@ -58,7 +58,8 @@
 ## 📚 Certifications & Coursework
 
 - 🚀 <strong>In Progress</strong>  
-  - 🏆 <strong>SSCD+ (Updraft Solidity Smart Contract Developer Certification)</strong> _(Expected: Sep 2025)_  
+  - 🏆 <strong>SSCD+ (Updraft Solidity Smart Contract Developer Certification)</strong> _(Expected: Sep/Oct 2025)_
+  - 🔐 <strong>Smart Contract Security (Cyfrin Advanced)</strong> (Expected: Oct/Nov 2025)  
   - Advanced Web3 Wallet Security (Cyfrin) *(58%)*  
   - Advanced Foundry (Cyfrin) *(19%)*  
   - Full - Stack Web3 Crash Course (Cyfrin) *(17%)*  
