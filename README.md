@@ -74,6 +74,7 @@
 | Email | onchain@jw3b.dev |
 | Twitter/X | [@Web3ByVirtuAI](https://twitter.com/web3byvirtuAi) |
 | CodeHawks | [Profile](https://codehawks.cyfrin.io) |
+| Payments | [Airtm](https://airtm.me/agilegypsy_) • [UD.me Wallet](https://ud.me/jw3b.brave) |
 
 ---
 
