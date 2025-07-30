@@ -21,22 +21,37 @@
 
 ---
 
-## 🛠️ Tech & Domains
+## 🛠 Tech & Domains
 
 ### Smart Contracts & Security
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-%23000000?style=for-the-badge&logo=foundry&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-F3C702?style=for-the-badge&logo=ethereum&logoColor=black) ![Ethers.js](https://img.shields.io/badge/Ethers.js-5C6BC0?style=for-the-badge&logo=ethereum&logoColor=white)
+[![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=flat-square)]() 
+[![Foundry](https://img.shields.io/badge/-Foundry-darkred?style=flat-square)]() 
+[![Hardhat](https://img.shields.io/badge/-Hardhat-yellow?logo=hardhat&style=flat-square)]() 
+[![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)]()
 
 ### Frontend / Full Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF5C90?style=for-the-badge&logo=framer&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat-square)]()
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&style=flat-square)]()
+[![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF4F80?logo=framer&style=flat-square)]()
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square)]()
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+### Backend & DevOps
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat-square)]()
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square)]()
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&style=flat-square)]()
+[![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&style=flat-square)]()
 
-### AI x Blockchain | Protocol Domains
-![DeFi](https://img.shields.io/badge/DeFi-000000?style=for-the-badge&logo=uniswap&logoColor=pink) ![AI Agents](https://img.shields.io/badge/AI_Agents-ff5c5c?style=for-the-badge&logo=OpenAI&logoColor=white) ![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-4B0082?style=for-the-badge) ![Account Abstraction](https://img.shields.io/badge/Account_Abstraction-000?style=for-the-badge) ![Protocol Security](https://img.shields.io/badge/Protocol_Security-red?style=for-the-badge)
+### AI × Blockchain & Protocol
+[![DeFi](https://img.shields.io/badge/-DeFi-blueviolet?style=flat-square)]()
+[![AI Agents](https://img.shields.io/badge/-AI_Agents-f03c69?style=flat-square)]()
+[![zk-SNARKs](https://img.shields.io/badge/-zk--SNARKs-8a2be2?style=flat-square)]()
+[![Account Abstraction](https://img.shields.io/badge/-Account_Abstraction-000000?style=flat-square)]()
+[![Protocol Security](https://img.shields.io/badge/-Protocol_Security-ed6a5e?style=flat-square)]()
 
-### Graph Data & Analysis
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+### Graph Data & Analytics
+[![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&style=flat-square)]()
 
 ---
 
