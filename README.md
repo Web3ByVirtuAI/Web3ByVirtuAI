@@ -48,7 +48,7 @@
 - 🚀 <strong>In Progress (Aug–Dec 2025)</strong>  
   - 🏆 <strong>SSCD+ (Updraft Solidity Smart Contract Developer Certification)</strong> _(Expected: Sep/Oct 2025)_  
   - 🔐 <strong>Smart Contract Security (Cyfrin)</strong> _(Top Priority)_  
-  - 🔧 <strong>Advanced Foundry (Cyfrin)</strong> *(19%)*  
+  - 🔧 <strong>Advanced Foundry (Cyfrin)</strong> *(36%)*  
   - ⚙️ <strong>Assembly & Formal Verification (Cyfrin)</strong> _(Up next)_  
   - ⚖️ <strong>Uniswap V2/V3 → Curve Cryptoswap/Stableswap</strong> _(Q4)_  
   - 🔓 <strong>Advanced Web3 Wallet Security (Cyfrin)</strong> *(58%)*
