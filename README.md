@@ -108,5 +108,5 @@
 From memecoins to MEV, from Yul to zk — I’m documenting it all.  
 🔐 Auditing contracts, breaking things (ethically), and pushing gas to the limit.  
 🚧 Work in progress? Always.  
-🧵 Follow the commits, fork the audits, and stay weird.  
+🧵 Follow the commits, fork the audits, and stay weird 👽
 📢 Feel free to reach out!
